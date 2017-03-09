@@ -2,60 +2,38 @@
 layout: splash
 author_profile: false
 header:
-  overlay_image: /assets/images/effelsberg.jpg
-  overlay_color: "#5e616c"
-excerpt: 'spiros eth whatever'
-feature_row:
-  - image_path: /assets/images/avatar.jpg
-    alt: "oh ssss"
-    title: "Resume"
-    excerpt: "A short introduction about my educational and working experience."
+  #overlay_color: "#5e616c"
+  overlay_image: /assets/images/teaser.jpg
+excerpt: 'Civil engineer with focus in structural engineering<br>and programmer hobbyist <br />'
+feature_row1:
+  - image_path: /assets/images/1.jpg
+    alt: "customizable"
+    title: Resume
+    excerpt: A short introduction about my educational and working experience.
     url: /resume/
     btn_label: "Explore more"
-  - image_path: /assets/images/avatar.jpg
+    btn_class: "btn--small btn--success"
+feature_row2:
+  - image_path: /assets/images/2.jpg
     alt: "customizable"
-    title: "Projects"
-    excerpt: "Projects that I was involved throughout my academic and professional career."
+    title: Projects
+    excerpt: Projects that I was involved throughout my academic and professional career.
     url: "/projects/"
     btn_label: "Explore more"
-  - image_path: /assets/images/avatar.jpg
+    btn_class: "btn--small"
+feature_row3:
+  - image_path: /assets/images/3.jpg
     alt: "customizable"
-    title: "Interests"
-    excerpt: "Hobbies etc"
+    title: Interests
+    excerpt: A view of memorable moments through the Kaleidoscope...
     url: /interests/
     btn_label: "Explore more"
+    btn_class: "btn--small btn--danger"
+intro:
+  - excerpt: 'Find me in: {::nomarkdown}<a href="https://ch.linkedin.com/pub/spyridon-daglas/116/8a7/2a9"> <img src="./assets/images/logos/linkedin_logo.png" frameborder="0" width="140px" height="20px" alt="Profil von Spyridon Daglas auf LinkedIn anzeigen"> </a> and <a href="https://github.com/spirosd"> <img src="./assets/images/logos/github_logo.png" frameborder="0" width="140px" height="20px" alt="Profil von Spyridon Daglas auf LinkedIn anzeigen"> </a>{:/nomarkdown}'
 ---
 
 {% include feature_row id="intro" type="center" %}
-{% include feature_row %}
-
-[![button](./assets/images/but.png)](https://www.google.gr)
-
-An h1 header
-============
-
-Paragraphs are separated by a blank line.
-
-2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
-look like:
-
-  * this one
-  * that one
-  * the other one
-
-Note that --- not considering the asterisk --- the actual text
-content starts at 4-columns in.
-
-> Block quotes are
-> written like so.
->
-> They can span multiple paragraphs,
-> if you like.
-
-Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., "it's all
-in chapters 12--14"). Three dots ... will be converted to an ellipsis.
-Unicode is supported. ☺
-
-
-[ETH]({{ site.baseurl }}{% link _pages/about.md %})
-[CV]({{ site.baseurl }}{% link _pages/resume.md %})
+{% include feature_row id="feature_row1" type="left"%}
+{% include feature_row id="feature_row2" type="right"%}
+{% include feature_row id="feature_row3" type="left"%}

@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Spyridon Daglas"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Spyridon Daglas"
+description              : "My personal webpage."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/spirosd.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "spirosd/spirosd.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Spyridon Daglas"
+  avatar           : /assets/images/cvphoto.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Civil engineer"
+  location         : "Switzerland"
+  email            : spirosdag@gmail.com
   uri              :
   bitbucket        :
   codepen          :
@@ -89,12 +89,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : spirosd
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : Spyridon Daglas
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
@@ -171,9 +171,9 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
-paginate: 1 # amount of posts to show
-paginate_path: /page:num/
+# permalink: /:categories/:title/
+# paginate: 1 # amount of posts to show
+# paginate_path: /page:num/
 timezone: Europe/Paris # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
