@@ -13,6 +13,20 @@ feature_row1:
     url: /resume/
     btn_label: "Explore more"
     btn_class: "btn--small btn--success"
+  - image_path: /assets/images/2.jpg
+    alt: "customizable"
+    title: Projects
+    excerpt: Projects that I was involved throughout my academic and professional career.
+    url: "/projects/"
+    btn_label: "Explore more"
+    btn_class: "btn--small"
+  - image_path: /assets/images/3.jpg
+    alt: "customizable"
+    title: Interests
+    excerpt: A view of memorable moments through the Kaleidoscope...
+    url: /interests/
+    btn_label: "Explore more"
+    btn_class: "btn--small btn--danger"
 feature_row2:
   - image_path: /assets/images/2.jpg
     alt: "customizable"
@@ -34,6 +48,4 @@ intro:
 ---
 
 {% include feature_row id="intro" type="center" %}
-{% include feature_row id="feature_row1" type="left"%}
-{% include feature_row id="feature_row2" type="right"%}
-{% include feature_row id="feature_row3" type="left"%}
+{% include feature_row id="feature_row1" %}
