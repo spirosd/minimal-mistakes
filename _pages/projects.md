@@ -3,6 +3,22 @@ layout: single
 title: 'Projects'
 permalink: /projects/
 author_profile: true
+con_bridges:
+  - image_path: /assets/images/kos1bg/teaser.jpg
+    alt: "customizable"
+    title: Pre-stressed concrete bridges courses in DUTH
+    excerpt: Design of a pre-stressed concrete road bridge
+    url: /con_bridges/
+    btn_label: "Explore more"
+    btn_class: "btn--small btn--success"
+kos1bg:
+  - image_path: /assets/images/kos1bg/teaser.jpg
+    alt: "customizable"
+    title: Concrete 1B, 1C courses in DUTH
+    excerpt: Design of a residential building in a seismic prone area
+    url: /kos1bg/
+    btn_label: "Explore more"
+    btn_class: "btn--small btn--success"
 wisba:
   - image_path: /assets/images/wisba/wisba_project.jpg
     alt: "customizable"
@@ -53,6 +69,8 @@ telescope2:
     btn_class: "btn--small btn--success"
 ---
 
+{% include feature_row id="con_bridges" type="left"%}
+{% include feature_row id="kos1bg" type="right"%}
 {% include feature_row id="wisba" type="left"%}
 {% include feature_row id="xanthi" type="right"%}
 {% include feature_row id="ibi" type="left"%}
