@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 'Master thesis in DUTH'
+title: 'Master thesis at DUTH'
 permalink: /xanthi/
 author_profile: true
 ---
