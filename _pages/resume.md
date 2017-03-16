@@ -90,5 +90,5 @@ Skills
 | **Programming Skills** |![python_logo]Python, ![matlab_logo]Matlab, ![latex_logo]LaTeX, ![html_logo]HTML, ![jekyll_logo]Jekyll|
 {: .notice--info}
 
-*For a detailed Curriculum Vitae please [contact me](http://www.zt.lugitsch.at/cms/)*
+*For a detailed Curriculum Vitae please [contact me](mailto:spirosdag@gmail.com)*
 {: .notice--danger}
