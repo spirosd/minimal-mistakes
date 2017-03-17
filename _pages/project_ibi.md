@@ -11,7 +11,7 @@ Febr. 2015-Juni 2015
 
 ---------------------------------------------------------------------
 
-As part of a Semester Project during my Master studies at ETH, I studied the thermal performance of a limestone building using Building Information Modelling processes, in order to evaluate and select an optimal intervention strategy. Both the modelling and the analysis were conducted using Autodesk Revit, for the modelling part, and Autodesk Ecotect for the analysis part, now incorporated in the Revit package.
+As part of the Project Work at IBI during my Master studies at ETH, I studied the thermal performance of a limestone building using Building Information Modelling processes, in order to evaluate and select an optimal intervention strategy. Both the modelling and the analysis were conducted using Autodesk Revit, for the modelling part, and Autodesk Ecotect for the analysis part, now incorporated in the Revit package.
 As far as the reference building is concerned, it belongs to the Copropriété Résidence du Parc, Meudon-la-Forêt building complex in Paris, France. The actual building was originally designed and constructed under the supervision of the French architect Fernand Pouillon during 1957-62.
 
 Actual building             |  Ecotect model
@@ -25,4 +25,4 @@ The interventions investigated included the replacement of the single with doubl
 ![limestone3](../assets/images/project_ibi/limestone3.jpg "limestone3")
 *Revit visualization of the interior of a typical floor.*
 
-The study concluded that the most advantageous intervention was the replacement of the single with double glazed windows. Moreover the effects of thermal mass design were examined in order to evaluate the intervention of covering a part of the glass façade with limestone walls.
+The study concluded that the most advantageous intervention was the replacement of the single with double glazed windows, although each intervention strategy had major other advantages, too. Finally, the effects of thermal mass design were examined, in order to evaluate the intervention of covering a part of the glass façade with limestone walls.

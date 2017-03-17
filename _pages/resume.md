@@ -46,17 +46,17 @@ author_profile: true
 Education
 ---------
 
-Sept. 2014-Feb. 2017
+Sept. 2014 - Feb. 2017
   : **Zurich, Switzerland**
   : ***MSc ETH in Civil Engineering***; Swiss Federal Institute of Technology ![eth_logo]
   : > Thesis Title: Structural Optimization of a Next Generation Gamma-Ray Telescope
 
-Sept. 2007-März 2014
+Sept. 2007 - Mar. 2014
   : **Xanthi, Greece**
   : ***MEng in Civil Engineering***; Democritus University of Thrace ![duth_logo]
-  : > Thesis title: Entwurf und Bemessung einer Schwimm- und Turmspringenstahlhalle unter Verwendung von BIM Prozesse
+  : > Thesis title: Design of an Olympic standards diving facility using BIM processes
 
-Sept. 2001 - Juni 2007
+Sept. 2001 - June 2007
   : **Athens, Greece**
   : ***School Diploma***; Arsakeio Lyceum ![arsakeio_logo]
   <br>
@@ -67,20 +67,19 @@ Sept. 2001 - Juni 2007
 Experience
 ----------
 
-Sept. 2016-Jan. 2017
+Sept. 2016 - Jan. 2017
   : **Zurich, Switzerland**
   : ***Assistant in Institute of Structural Enginnering -<br>Steel, Timber and Composite Structures***; Swiss Federal Institute of Technology ![ibk_logo]
-  : > Preparation and execution of a series of 6 2hr-Colloquia for the Civil Engineering Bachelor Course "Steel Structures II.
+  : > I prepared and executed a series of 6 2hr-Colloquia for the Civil Engineering<br>Bachelor Course "Steel Structures II to 15 students (in German). The topics included,<br>among others, verification procedures according to SIA263, truss design,<br> concentrated forces transmission(stiffeners) and joints design, steel-concrete<br>composite plate, beams and columns design and global load carrying concepts.  
 
-Juni 2012 - Sept. 2012
+June 2012 - Sept. 2012
   : **Feldbach, Austria**
   : ***Civil Engineering Intern***; [Lugitsch und Partner Ziviltechniker](http://www.zt.lugitsch.at/cms/) ![lugitsch_logo]
-  : > *Worked in Statische Berechnung einer Stahl-Antenne, Hochwasserrückhaltebecken inkl. Vermessungsarbeiten, Siedlungswasserbau (Oberflächenentwässerung)*
+  : > I was involved in the project of designing a retention basin against flooding,<br>which included topographical survey and mapping, urban water supply and sanitation<br>and surface drainage provisions. Moreover, I was assigned the task of simulating and<br>designing a 39m steel space truss tower for telecommunication purposes.
   {: .notice--success}
 
 Skills
 ----------
-
 
 |------|:------:|
 | **Languages** |Greek, German, English, Italian (A2)|

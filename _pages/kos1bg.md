@@ -5,6 +5,12 @@ permalink: /kos1bg/
 author_profile: true
 ---
 
+---------------------------------------------------------------------
+Feb. 2013-Feb. 2014
+  : **Xanthi, Greece**
+
+---------------------------------------------------------------------
+
 A major task for civil engineers in Greece is the knowledge of designing safe and economic structures in earthquake prone areas, as the county finds itself in the most dangerous seismic area of Europe. During 1B and 1C concrete design courses, the conceptual approach, as well as the dimensioning of a simple residential building with hand calculations is investigated. A specification sheet is given at the beginning of the year and during two semesters, along with the courses, the final drawings need to be presented, together with the calculation and technical report.
 
 Apart from the different final drawings, I created an automatic procedure for the repetitive checks of different elements, according to Eurocode 2 and 8, using Excel sheets, that later were used for the automatic creation of the calculation report.

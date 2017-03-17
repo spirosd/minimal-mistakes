@@ -6,11 +6,12 @@ author_profile: true
 ---
 
 ---------------------------------------------------------------------
-
-Sept. 2013-April 2014
+Feb. 2013-June 2014
   : **Xanthi, Greece**
 
-During the course of Steel Structures 3 in DUTH, I was involved with the conceptual design of usual steel structures. My final project incorporated the knowledge that I had at that point, by designing a usual steel warehouse with dimensions 48m x 28m x 8.6m.
+---------------------------------------------------------------------
+
+During the course of Steel Structures 3 in DUTH, I was involved in the conceptual design of usual steel structures. My final project incorporated the knowledge that I had at that point, by designing a usual steel warehouse with dimensions 48m x 28m x 8.6m.
 
 ![xanthi3_1](../assets/images/xanthi3/xanthi33d.jpg "xanthi33d")
 *Visualization of the structural concept.*

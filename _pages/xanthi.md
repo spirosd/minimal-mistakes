@@ -6,11 +6,12 @@ author_profile: true
 ---
 
 ---------------------------------------------------------------------
-
-Sept. 2013-April 2014
+June 2013-Apr. 2014
   : **Xanthi, Greece**
 
-For my master thesis in Xanthi, Greece I was involved along with my colleague [Evripidis Apostolidis](https://gr.linkedin.com/in/evripidis-apostolidis-357619bb) in the design of a Swimming and Diving complex with stands using Building Information Modelling (BIM).
+---------------------------------------------------------------------
+
+For my master thesis in Xanthi, Greece I was involved along with my colleague [Evripidis Apostolidis](https://gr.linkedin.com/in/evripidis-apostolidis-357619bb) in the design of an Olympic standards Swimming and Diving complex with stands using Building Information Modelling (BIM).
 
 ![beam_xanthi](../assets/images/xanthi/xanthi3d.jpg "xanthi3"){: .align-center}
 <p style="text-align: center;"><i>3D visualization of the structure in Autodesk Revit.</i></p>
