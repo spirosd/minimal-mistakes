@@ -90,4 +90,3 @@ Skills
 {: .notice--info}
 
 *For a detailed Curriculum Vitae please [contact me](mailto:spirosdag@gmail.com)*
-{: .notice--danger}
