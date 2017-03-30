@@ -69,9 +69,9 @@ duth:
     btn_label: "Explore more"
     btn_class: "btn--small"
 intro_duth:
-  - excerpt: <b>Projects that I took part, for my Diploma in Democritus University of Thrace
+  - excerpt: <b>Projects during my Diploma in Democritus University of Thrace
 intro_eth:
-  - excerpt: <b>Projects that I took part, for my MSc in the Swiss Federal Institute of Technology
+  - excerpt: <b>Projects during my MSc in the Swiss Federal Institute of Technology
 ---
 
 {% include feature_row id="intro_duth" type="center" %}

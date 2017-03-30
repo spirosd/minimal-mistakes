@@ -22,7 +22,7 @@ Actual building             |  Ecotect model
 
 The interventions investigated included the replacement of the single with double glazed windows, the introduction of thermal mass on the glass façade with the form of limestone walls as well as the improvement of the ceiling and side walls insulation.
 
-![limestone3](../assets/images/project_ibi/limestone3.jpg "limestone3")
+![limestone3](../assets/images/project_ibi/limestone32.jpg "limestone3")
 *Revit visualization of the interior of a typical floor.*
 
-The study concluded that the most advantageous intervention was the replacement of the single with double glazed windows, although each intervention strategy had major other advantages, too. Finally, the effects of thermal mass design were examined, in order to evaluate the intervention of covering a part of the glass façade with limestone walls.
+The study concluded that the most advantageous cost-effective intervention was the replacement of the single with double glazed windows. However, when the cost factor is not the driving one, each intervention strategy presents its own major advantage. Especially, the effects of thermal mass design by covering a part of the glass façade with limestone walls showed inarguably very interesting advantages enabling a more uniform temperature throughout the daily building usage.

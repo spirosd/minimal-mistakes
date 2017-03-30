@@ -53,7 +53,7 @@ Sept. 2014 - Feb. 2017
 
 Sept. 2007 - Mar. 2014
   : **Xanthi, Greece**
-  : ***MEng in Civil Engineering***; Democritus University of Thrace ![duth_logo]
+  : ***Diploma in Civil Engineering***; Democritus University of Thrace ![duth_logo]
   : > Thesis title: Design of an Olympic standard diving facility using BIM processes
 
 Sept. 2001 - June 2007
@@ -70,7 +70,7 @@ Experience
 Sept. 2016 - Dez. 2016
   : **Zurich, Switzerland**
   : ***Assistant in Institute of Structural Enginnering -<br>Steel, Timber and Composite Structures***; Swiss Federal Institute of Technology ![ibk_logo]
-  : > I prepared and executed a series of 6 2hr-Colloquia for the Civil Engineering<br>Bachelor Course "Steel Structures II to 15 students (in German). The topics included,<br>among others, verification procedures according to SIA263, truss design,<br> concentrated forces transmission(stiffeners) and joints design, steel-concrete<br>composite plate, beams and columns design and global load carrying concepts.  
+  : > I prepared and executed a series of 6 2hr-Colloquia for the Civil Engineering<br>Bachelor Course "Steel Structures II" to 15 students (in German). The topics included,<br>among others, verification procedures according to SIA263, truss design,<br> concentrated forces transmission(stiffeners) and joints design, steel-concrete<br>composite plate, beams and columns design and global load carrying concepts.  
 
 June 2012 - Sept. 2012
   : **Feldbach, Austria**

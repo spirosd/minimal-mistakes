@@ -23,7 +23,7 @@ feature_row1:
   - image_path: /assets/images/3.jpg
     alt: "customizable"
     title: Interests
-    excerpt: A view of memorable moments through the Kaleidoscope...
+    excerpt: A look at some memorable relaxing moments.
     url: /interests/
     btn_label: "Explore more"
     btn_class: "btn--small btn--danger"
@@ -39,12 +39,12 @@ feature_row3:
   - image_path: /assets/images/3.jpg
     alt: "customizable"
     title: Interests
-    excerpt: A view of memorable moments through the Kaleidoscope...
+    excerpt: A look at some memorable relaxing moments.
     url: /interests/
     btn_label: "Explore more"
     btn_class: "btn--small btn--danger"
 intro:
-  - excerpt: 'Find me in: {::nomarkdown}<a href="https://ch.linkedin.com/pub/spyridon-daglas/116/8a7/2a9"> <img src="./assets/images/logos/linkedin_logo.png" frameborder="0" width="140px" height="20px" alt="Profil von Spyridon Daglas auf LinkedIn anzeigen"> </a> and <a href="https://github.com/spirosd"> <img src="./assets/images/logos/github_logo.png" frameborder="0" width="140px" height="20px" alt="Profil von Spyridon Daglas auf LinkedIn anzeigen"> </a>{:/nomarkdown}'
+  - excerpt: 'Find me also in: {::nomarkdown}<a href="https://ch.linkedin.com/pub/spyridon-daglas/116/8a7/2a9"> <img src="./assets/images/logos/linkedin_logo.png" frameborder="0" width="140px" height="20px" alt="Profil von Spyridon Daglas auf LinkedIn anzeigen"> </a> and <a href="https://github.com/spirosd"> <img src="./assets/images/logos/github_logo.png" frameborder="0" width="140px" height="20px" alt="Profil von Spyridon Daglas auf LinkedIn anzeigen"> </a>{:/nomarkdown} (main project still private)'
 ---
 
 {% include feature_row id="intro" type="center" %}
