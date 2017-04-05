@@ -13,7 +13,7 @@ Sept. 2013-Feb. 2014
 
 During the last semester of my studies in DUTH, in the scope of the structural engineering specialization, I was involved along with my colleague [Evripidis Apostolidis](https://gr.linkedin.com/in/evripidis-apostolidis-357619bb) in the design of a pre-stressed concrete road bridge.
 
-The project included the total bridge dimensioning, from the geometry to the pre-stressing concept and the reinforcement design. The structural was realized using pre-stressed beams in the longitudinal direction, whereas on the transverse direction the spans were gaped with normal reinforcement.
+The project included the total bridge dimensioning, from the geometry to the pre-stressing concept and the reinforcement design. The bridge was realized using pre-stressed beams in the longitudinal direction, whereas on the transverse direction the spans were gaped with normal reinforcement.
 
 ![Main structural concept](../assets/images/con_bridges/concept.jpg "bridge_concept")
 *Main structural concept*

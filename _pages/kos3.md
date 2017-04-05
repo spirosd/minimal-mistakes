@@ -15,7 +15,7 @@ Along with the other specialized courses in the last semester of my studies in D
 Bridge Engineering](../../con_bridges/), [Special Elements of Steel Structures](../../xanthi3)), I followed the Reinforced Concrete Structures III (design
 for seismic actions) course, that investigates specific earthquake design topics mainly in concrete design.
 
-In the scope of this course the design of a multi-storey building with irregularities (such as variable stiffness distribution along the height) was simulated and designed, in order to familiarize with specific topics in earthquake engineering. Different analysis methods, as well as all design details according to Eurocode 8 (Sections 1 to 5) were thoroughly discussed.  
+In the scope of this course a multi-storey building with irregularities (such as variable stiffness distribution along the height) was simulated and designed, in order to familiarize with specific topics in earthquake engineering. Different analysis methods, as well as all design details according to Eurocode 8 (Sections 1 to 5) were thoroughly discussed.  
 
 ![Typical frame of the building](../assets/images/kos3/stories.jpg "stories")
 *Typical frame of the building (colours represent different floors used for the mass distribution, as well as for the primary and secondary bearing structural elements)*

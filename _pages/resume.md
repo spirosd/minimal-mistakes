@@ -82,11 +82,11 @@ Skills
 ----------
 
 |------|:------:|
-| **Languages** |Greek, German, English, Italian (A2)|
+| **Languages** |Greek, German, English, Italian|
 | **Genreal Software Skills** |![autocad_logo]Autodesk Autocad, ![office_logo]Microsoft Office,<br>![photoshop_logo]Adobe Photoshop|
-| **FE Software Skills** |![robot_logo]Autodesk Robot Structural Analysis Professional,<br>![sap2000_logo]CSi SAP2000, ![abaqus_logo]Simulia Abaqus, AxisVM, ![cubus_logo]Cubus Statik/Fangus/Cedrus|
+| **FE Software Skills** |![robot_logo]Autodesk Robot Structural Analysis Professional,<br>![sap2000_logo]CSi SAP2000, ![abaqus_logo]Simulia Abaqus, ![cubus_logo]Cubus Statik/Fangus/Cedrus|
 | **BIM Software Skills** |![revit_logo]Autodesk Revit, ![tekla_logo]Tekla Structures|
-| **Programming Skills** |![python_logo]Python, ![matlab_logo]Matlab, ![latex_logo]LaTeX, ![html_logo]HTML, ![jekyll_logo]Jekyll|
+| **Programming Skills** |![python_logo]Python, ![matlab_logo]Matlab, ![latex_logo]LaTeX, ![html_logo]HTML|
 {: .notice--info}
-
+#, ![jekyll_logo]Jekyll  , AxisVM
 *For a detailed Curriculum Vitae please [contact me](mailto:spirosdag@gmail.com)*

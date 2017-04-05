@@ -11,7 +11,7 @@ Feb. 2016-June 2016
 
 ---------------------------------------------------------------------
 
-As part of my obligatory Project Work in the Structural Engineering Institute of ETH, I got involved in, what in the future emerged as my Master thesis too, an interdisciplinary project with the Institute of Particle Physics. This Project Work was accomplished as a team work with my colleague Georgios Zinas.
+As part of my obligatory Project Work in the Structural Engineering Institute of ETH, I got involved in, what in the future emerged as my [Master thesis](../telescope2/) too, an interdisciplinary project with the Institute of Particle Physics. This Project Work was accomplished as a team work with my colleague [Georgios Zinas](https://www.linkedin.com/in/georgios-zinas-b6956041/).
 
 The project of a gigantic ground based Gamma-Ray telescope was initiated from a revolutionary camera technology developed by the Institute of Particle Physics, and more precisely Adrian Biland's group. This camera allows more relaxed geometrical constraints, compared to a traditional altazimuth mounted telescope, such as the deformations of the main dish structure.
 

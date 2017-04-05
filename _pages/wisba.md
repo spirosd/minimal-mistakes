@@ -1,15 +1,17 @@
 ---
 layout: single
-title: 'WISBA'
+title: 'Wienerberger Sustainable Building Academy (WISBA)'
 permalink: /wisba/
 author_profile: true
 ---
 
 ---------------------------------------------------------------------
-Sept. 2015-Feb. 2016
+Sept. 2015-Dec. 2015
   : **Zurich, Switzerland**
   : **Budapest, Hungary**
   : **Pisa, Italy**
+  : **Brussels, Belgium**
+  : **Warsaw, Poland**
   : **Vienna, Austria**
 
 ---------------------------------------------------------------------

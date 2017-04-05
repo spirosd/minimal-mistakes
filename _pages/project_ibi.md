@@ -1,12 +1,12 @@
 ---
 layout: single
-title: Study of the thermal behaviour of the 60yr-old residential stone building Résidence du Parc using BIM process
+title: Study of the thermal behaviour of the 60-year-old residential stone building Résidence du Parc using BIM process
 permalink: /project_ibi/
 author_profile: true
 ---
 
 ---------------------------------------------------------------------
-Febr. 2015-Juni 2015
+Feb. 2015-June 2015
   : **Zurich, Switzerland**
 
 ---------------------------------------------------------------------

@@ -6,7 +6,7 @@ author_profile: true
 eth:
   - image_path: /assets/images/telescope2/teaser.png
     alt: "customizable"
-    title: Master thesis<br><br>
+    title: Master thesis (at <a href="http://www.ibk.ethz.ch/">IBK</a>)<br>
     excerpt: Structural Optimization of a Novel Type of Gamma-Ray Telescope.
     url: /telescope2/
     btn_label: "Explore more"
@@ -21,14 +21,14 @@ eth:
   - image_path: /assets/images/telescope1/altaz.jpg
     alt: "customizable"
     title: Project Work at <a href="http://www.ibk.ethz.ch/">IBK</a>
-    excerpt: A comparative study between a novel and a traditional Gamma-Ray telescope structure.
+    excerpt: A comparative study between a novel and a traditional Gamma-Ray telescope concept.
     url: /telescope1/
     btn_label: "Explore more"
     btn_class: "btn--small"
   - image_path: /assets/images/project_ibi/limestone3.jpg
     alt: "customizable"
     title: Project Work at <a href="http://www.ibi.ethz.ch/">IBI</a>
-    excerpt: Study of the thermal behaviour of a 60yr-old stone building using BIM.
+    excerpt: Study of the thermal behaviour of a 60-year-old stone building using BIM.
     url: /project_ibi/
     btn_label: "Explore more"
     btn_class: "btn--small"
@@ -74,8 +74,8 @@ intro_eth:
   - excerpt: <b>Projects during my MSc in the Swiss Federal Institute of Technology
 ---
 
-{% include feature_row id="intro_duth" type="center" %}
-{% include feature_row id="duth" %}
-
 {% include feature_row id="intro_eth" type="center" %}
 {% include feature_row id="eth" %}
+
+{% include feature_row id="intro_duth" type="center" %}
+{% include feature_row id="duth" %}
