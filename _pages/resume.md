@@ -88,5 +88,4 @@ Skills
 | **BIM Software Skills** |![revit_logo]Autodesk Revit, ![tekla_logo]Tekla Structures|
 | **Programming Skills** |![python_logo]Python, ![matlab_logo]Matlab, ![latex_logo]LaTeX, ![html_logo]HTML|
 {: .notice--info}
-#, ![jekyll_logo]Jekyll  , AxisVM
 *For a detailed Curriculum Vitae please [contact me](mailto:spirosdag@gmail.com)*
