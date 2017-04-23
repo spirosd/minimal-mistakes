@@ -16,7 +16,7 @@ As far as the reference building is concerned, it belongs to the Copropriété R
 
 Actual building             |  Ecotect model
 :-------------------------:|:-------------------------:
-![limestone1](../assets/images/project_ibi/limestone1.jpg "limestone1")  |  ![limestone2](../assets/images/project_ibi/limestone2.jpg "limestone2")
+![limestone1](../assets/images/project_ibi/limestone1.JPG "limestone1")  |  ![limestone2](../assets/images/project_ibi/limestone2.jpg "limestone2")
 
 *Reference building of the Copropriété Résidence du Parc, Meudon-la-Forêt complex in Paris, France.*
 
