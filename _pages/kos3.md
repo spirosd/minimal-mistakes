@@ -25,7 +25,7 @@ Multiple analysis methods were examined and compared, from the Equivalent Latera
 ![Load distribution](../assets/images/kos3/ldr.jpg "ldr")
 *Automatic load distribution from the plates (used as diaphragms in every floor level), to the beams and columns.*
 
-Although the building was simulated 100% in 3D, the results were verified by hand calculations, where possible. Finally, the design was made with hand calculations for specific elements, using the automatic Excell process described in [RC 1B/1C project](../.../kos1bg/).
+Although the building was simulated 100% in 3D, the results were verified by hand calculations, where possible. Finally, the design was made with hand calculations for specific elements, using the automatic Excell process described in [RC 1B/1C project](../../kos1bg/).
 
 ![Deformations](../assets/images/kos3/fga.jpg "fga")
 *Deformations of a typical frame for the 1X+0.3Y load combination according to Eurocode 8 (note the automatic load generation of the ELFM)*
