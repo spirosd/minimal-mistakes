@@ -72,7 +72,7 @@ Sept. 2016 - Dez. 2016
   : ***Assistant in Institute of Structural Enginnering -<br>Steel, Timber and Composite Structures***; Swiss Federal Institute of Technology ![ibk_logo]
   : > I prepared and executed a series of 6 2hr-Colloquia for the Civil Engineering<br>Bachelor Course "Steel Structures II" to 15 students (in German). The topics included,<br>among others, verification procedures according to SIA263, truss design,<br> concentrated forces transmission(stiffeners) and joints design, steel-concrete<br>composite plate, beams and columns design and global load carrying concepts.  
 
-June 2012 - Sept. 2012
+June 2013 - Sept. 2013
   : **Feldbach, Austria**
   : ***Civil Engineering Intern***; [Lugitsch und Partner Ziviltechniker](http://www.zt.lugitsch.at/cms/) ![lugitsch_logo]
   : > I was involved in the project of designing a retention basin against flooding,<br>which included topographical survey and mapping, urban water supply and sanitation<br>and surface drainage provisions. Moreover, I was assigned the task of simulating and<br>designing a 39m steel space truss tower for telecommunication purposes.
