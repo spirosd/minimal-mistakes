@@ -4,7 +4,7 @@ author_profile: false
 header:
   #overlay_color: "#5e616c"
   overlay_image: /assets/images/teaser.jpg
-excerpt: 'Civil engineer with focus in structural engineering<br>and programmer hobbyist <br />'
+excerpt: 'Structural Engineer and programmer hobbyist'
 feature_row1:
   - image_path: /assets/images/1.jpg
     alt: "customizable"
